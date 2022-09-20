@@ -1,0 +1,112 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+seq011      MQRPRSGRVCVYLVTNVLLALSIWLSRASAFRLSRWSASALCPAQSPSCVGTAHRLSTPL	60
+seq006      ------------------------------------------------------------	0
+seq004      ------------------------------------------------------------	0
+seq005      ------------------------------------------------------------	0
+seq001      ------------------------------------------------------------	0
+seq002      ------------------------------------------------------------	0
+seq003      ------------------------------------------------------------	0
+seq010      ------------------------------------------------------------	0
+seq009      ------------------------------------------------------------	0
+seq007      ------------------------------------------------------------	0
+seq008      ------------------------------------------------------------	0
+seq015      ------------------------------------------------------------	0
+seq016      ------------------------------------------------------------	0
+seq017      ------------------------------------------------------------	0
+seq020      ------------------------------------------------------------	0
+seq018      ------------------------------------------------------------	0
+seq019      ------------------------------------------------------------	0
+seq014      ------------------------------------------------------------	0
+seq012      ------------------------------------------------------------	0
+seq013      ------------------------------------------------------------	0
+                                                                        
+
+seq011      IAAGCELGSFPSGCTNEFFWRRHGSQTALGISSRRHL---QVIRRKKYRTKGTSTVRRHY	117
+seq006      ------------------------------------------------------------	0
+seq004      ------------------------------------------------------------	0
+seq005      ------MATMVAGISLRGPVMSSHR--TFSVTKRASLPQSKLSSELSFVTSQLSGLKISS	52
+seq001      ------MTTM----ATQGAWLR------MTSSAKSMTKSTVTSKELGFLTSQLSGLRISY	44
+seq002      ---------M----ATQGAWLR------MTSSAKSMTKSTVTSKELGFLTSQLSGLRISY	41
+seq003      ------------------------------------------------------------	0
+seq010      ------------------------------------------------------------	0
+seq009      ------------------------------------------------------------	0
+seq007      ------------------------------------------------------------	0
+seq008      ------------------------------------------------------------	0
+seq015      ------------------------------------------------------------	0
+seq016      ------------------------------------------------------------	0
+seq017      ------------------------------------------------------------	0
+seq020      ------------------------------------------------------------	0
+seq018      ------------------------------------------------------------	0
+seq019      ------------------------------------------------------------	0
+seq014      ------------------------------------------------------------	0
+seq012      ------------------------------------------------------------	0
+seq013      ------------------------------------------------------------	0
+                                                                        
+
+seq011      GIKGRGGGKLRLGKHTGVPLQAMECPARRCMLLGKMDNTKARNRS-------------HS	164
+seq006      -------------------------MTRKCQLLFKTSNT-ANKVS-------------HS	21
+seq004      ------------ML---LYDVGVGDSGRICPFTDKKTNR-ANKVS-------------FS	31
+seq005      THFISSSAPLSVPF---KPSLQP-VARRICPFTGKKSNR-ANKVS-------------HS	94
+seq001      TPSDV-INRISLPS---FPGIQPIVARRICPFTGKKANR-ANKVS-------------FS	86
+seq002      TPSDV-INRISLPS---FPGIQPIVARRICPFTGKKANR-ANKVS-------------FS	83
+seq003      ----------------------MLPHSRICPFTGKKANR-ANKVS-------------FS	24
+seq010      -------------------------MARQCELTGKKANN-GYTVS-------------HS	21
+seq009      -------------------------MSKKCQLTGKVANN-GYAVS-------------HS	21
+seq007      -------------------------MARRCQLTGKKANN-GFAVS-------------HS	21
+seq008      -------------------------MSRRCDLTGKKANN-AFAVS-------------HS	21
+seq015      -------------------------MSKKCALTGRKPRR-GYSYAIRGISKKKKGIGLKV	34
+seq016      -------------------------MSKKCALTGRKPRR-GYSYAIRGISKKKKGIGLKV	34
+seq017      -------------------------MSRKCPLTGKRPRR-GYSYTLRGIAKKKKGIGLKV	34
+seq020      -------------------------MSRVCQVTGKRVQT-GNNVS-------------HA	21
+seq018      -------------------------MARVCKVTGKRPMS-GNNVS-------------HA	21
+seq019      -------------------------MARVCQVTGKAPMV-GNNVS-------------HA	21
+seq014      -------------------------MSARCQITGRTVGF-GKAVS-------------HS	21
+seq012      -------------------------MSAHCMLTGARPGF-GNRIS-------------HS	21
+seq013      -------------------------MSAHCQVTGRKPGF-GNTVS-------------HS	21
+                                         * .        .   :               
+
+seq011      RVATHKVQRLNLHWKRLWWPEAGYYVRLRLSVKGIRTIKKYGLQRAADKFGLNLKKKKYY	224
+seq006      NHKSKRLQFVNLQKKKVWSSLKKKWIKLRISTKMIKILNKKNIDYFL-------------	68
+seq004      NHKTKKQQFVNLQYKKLWWEEGKRFVKLRLSTKALKTIEKHGLDAVAKKAGIDLNKK---	88
+seq005      NHKTKKLQFVNLQYKRIWWEAGKRYVKLRLSTKAIKTIEKNGLDAVAKKAGIDLSKK---	151
+seq001      NHKTKKLQFVNLQYKRVWWEAGKRFVKLRLSTKALKTIEKNGLDAVAKKAGIDLRKK---	143
+seq002      NHKTKKLQFVNLQYKRVWWEAGKRFVKLRLSTKALKTIEKNGLDAVAKKAGIDLRKK---	140
+seq003      NHKTKKLQFVNLQYKRVWWEAGKRFVILRLSTKALKTIEKNGLEAVSKKAGIDLRKK---	81
+seq010      HRRTKCLQKANLQTKRIWSPTLKRWLKLQVSTKVIKDLKRKSIDALLKI-----------	70
+seq009      HKRTKKLQNVNLQYKKVWSTEQNKWIKMLISTKAIKTLTKAL------------------	63
+seq007      HRRTKKLQQANLQWKRVWWPEGNRFVRLRLSTTAIKTLESKGINAMAKEAGINLNKF---	78
+seq008      HRRTKRLQQVNLQNKRVWWPSGNRWVKLKLSTKAIKTLEVKGLEAMAKEAGINLNHY---	78
+seq015      TGRTKRRFFPNMMTKRLWSTEENRFLKLKISAAALRLVDKLGLDQVVARAKSKGF-----	89
+seq016      TGRTKRRFLPNMMTKRLWSTEENRFLKLKISAAALRLVDKLGLDKVVARAKSKGF-----	89
+seq017      TGKTKRRFFPNMLTKRLWSTEENRFLKLKISASALRHIDKLGLEKVLERAKSKNF-----	89
+seq020      NNKTRRRFLPNLHKRRFWVASENRWVKLRVSTCAVRTIDKNGIDAVLAELRASGEKV---	78
+seq018      NNKTKRRFLPNLQSRRFWVESENRWVRLRVSNAALRTIDKVGIDVVLADLRARGEA----	77
+seq019      NNKTKRRFLPNLQNRRFWVESENRWVSLRVSNAGLRLIDKKGIDEVLADLRARGEV----	77
+seq014      HRRTRRRWPPNIQLKAYYLPSEDRRIKVRVSAQGIKVIDRDGHRGRRRAARAGSAPAHFA	81
+seq012      HRRTSRRFDPNIQTKRYWLPSENRHVRLRLSTKGIRTVDSIGVEAAVARIRARGVRI---	78
+seq013      HRRSRRRWSPNIQQRTYYLPSEGRRIRLRVSTKGIKVIDRDGIEAVVARLRRQGQRI---	78
+               :      *:  :  :       : : :*   :: :                      
+
+seq011      --AGYSHRRMVSRLSLAGGTAGHINADEIAGPLSGQRETSTIARVDAAKM	272
+seq006      --------------------------------------------------	68
+seq004      --------------------------------------------------	88
+seq005      --------------------------------------------------	151
+seq001      --------------------------------------------------	143
+seq002      --------------------------------------------------	140
+seq003      --------------------------------------------------	81
+seq010      --------------------------------------------------	70
+seq009      --------------------------------------------------	63
+seq007      --------------------------------------------------	78
+seq008      --------------------------------------------------	78
+seq015      --------------------------------------------------	89
+seq016      --------------------------------------------------	89
+seq017      --------------------------------------------------	89
+seq020      --------------------------------------------------	78
+seq018      --------------------------------------------------	77
+seq019      --------------------------------------------------	77
+seq014      RQAGSSLRTA-----------------AIL--------------------	94
+seq012      --------------------------------------------------	78
+seq013      --------------------------------------------------	78
+                                                              

@@ -1,0 +1,68 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+seq019      ---------------------------------------------MAHKKSGGSSSNGRD	15
+seq018      ---------------------------------------------MAHKKAGGSSRNGRD	15
+seq014      ---------------------------------------------MAHKKAGGSSRNGRD	15
+seq015      ---------------------------------------------MAHTKKGGSSRNGRD	15
+seq016      ---------------------------------------------MAHKKAGGSSRNGRD	15
+seq017      ---------------------------------------------MAHKKAGGSSRNGRD	15
+seq020      MNFLNSAASICRRVSLRELITEVPAYTGSSISDGSSSGLSLVLKRWATKKTAGSTKNGRD	60
+seq012      ---------------------------------------------MAHKKGVGSSRNGRD	15
+seq010      ---------------------------------------------MAQKKGGGSTRNGRD	15
+seq011      ---------------------------------------------MAHKKAGGSSRNGRD	15
+seq009      ---------------------------------------------MAHKKAGGSTRNGRD	15
+seq008      ---------------------------------------------MASKKAGGSTRNGRD	15
+seq001      ---------------------------------------------MATKKAGGSTRNGRD	15
+seq002      ----------------------------------------------ATKKAGGSTRNGRD	14
+seq006      ---------------------------------------------MAHKKAGGSTRNGRD	15
+seq005      ---------------------------------------------MAHKKAGGSTRNGRD	15
+seq003      ----------------------------------------------AHKKAGGSTRNGRD	14
+seq004      ----------------------------------------------AHKKAGGSTRNGRD	14
+seq007      ---------------------------------------------MAHKKAGGSTRNGRD	15
+seq013      ---------------------------------------------MAHKKAGGSTRNGRD	15
+                                                          * .*  **: ****
+
+seq019      SESKRLGVKKFGGEKVLAGNILVRQRGTKFYPGSGVGIGKDHTLFALVQGAVGFVTK-KH	74
+seq018      SHSKRLGVKKFGGEAVIPGNIIIRQRGTTWHPGVNVGMGTDHTLFALESGAVTFNKK-AN	74
+seq014      SESKRLGVKKFGGEAVLAGNIIVRQRGTKWHPGANVGLGKDHTIFATVNGSVSFRTK-AN	74
+seq015      SESKRLGVKKFGGEAVLAGNIIVRQRGTKWHPGANVGLGKDHTIFATVNGSVSFRTK-AN	74
+seq016      SESKRLGVKKFGGEAVIPGNIILRQRGTQWHPGANVGIGKDHTIFALTAGNVNFRTK-AN	74
+seq017      SESKRLGVKKFGGEAVIPGNIIVRQRGTKWHAGANVGLGKDHTIFALTTGNVDFRKK-AN	74
+seq020      SNPKFLGVKKFGGESVIPGNIIVRQRGTRFHPGDYVGIGKDHTLFALKEGRVRFEKSKIT	120
+seq012      SNPKYLGVKLFGGQAIEAGNIIIRQRGTQFHAGDGVGLGRDHTLFALVDGTVAFSIKGPK	75
+seq010      SESKRLGVKVYGGQAINAGGIIIRQRGTRTHAGVNVGMGKDHTLFALVDGHVKFATRGEG	75
+seq011      SESKRLGVKVYGGQAINAGGIIVRQRGTRMHAGENVGMGKDHTLVALVDGHVKFTTKGAA	75
+seq009      SNAQRLGVKCFGGQLISAGSIIVKQRGTKFHPGKNVGCGKDHTIFAIVKGKVEFKKKGLK	75
+seq008      SEAKRLGVKAYGNELIPAGSIIVRQRGTKFHAGDNVGMGKDHTLFAKVDGYVEFKTKGAL	75
+seq001      SEAKRLGVKRFGGESVLAGSIIVRQRGTKFHAGSNVGMGRDHTLFATADGKVKFEVKGEK	75
+seq002      SEAKRLGVKRFGGESVLAGSIIVRQRGTKFHAGNNVGMGRDHTLFATADGKVKFEVKGEK	74
+seq006      SESKRLGVKRFGGESVLAGNIIVRQRGTKFHAGTNVGIGKDHTLFALSDGKVKFEVKGPN	75
+seq005      SESKRLGVKRFGGEAVLAGSIIVRQRGTKFHAGINVGCGKDHTLFALADGKVKFEVKGPK	75
+seq003      SEAKRLGVKRFGGESVLAGSIIVRQRGTKFHAGANVGCGRDHTLFAKADGKVKFEVKGPK	74
+seq004      SEAKRLGVKRFGGEAVLAGSIIVRQRGTKFHAGTNVGCGRDHTLFAKADGKVKFEVKGPK	74
+seq007      SESKRLGVKLFGGQAVKAGNILVRQRGTKFHAGYGVGLGKDHTLFAKVDGVVKFETKGAF	75
+seq013      SEAKRLGVKMYGGQKIIPGNIIVRQRGTQFHAGYGVGMGKDHTLFAKIEGVIKFEVKGAF	75
+            *. : **** :*.: :  *.*:::****  : *  ** * ***:.*   * : *      
+
+seq019      NRTYVTVTPAAQPAE-------------------	89
+seq018      GRTYVSVNPITKAAE-------------------	89
+seq014      GRTYVSVNPIAEAAE-------------------	89
+seq015      GRTYVSVNPIAEAAE-------------------	89
+seq016      GRVFVSVAPKAEAAE-------------------	89
+seq017      GRVYVSVMPKAEAAE-------------------	89
+seq020      GRKWIHVDPIGGHVLHPIYTKAAAAKSTKLNTAS	154
+seq012      KRRTVNVIPA------------------------	85
+seq010      KKQFVDVVPAA-----------------------	86
+seq011      KKHTVVVVPAAA----------------------	87
+seq009      KRTYINIIN-------------------------	84
+seq008      NRKTVSIRPYTGSEE-------------------	90
+seq001      NRKYVSIIAE------------------------	85
+seq002      SRKYVVIVTE------------------------	84
+seq006      NRKFVSIETAE-----------------------	86
+seq005      NRKFISIEAE------------------------	85
+seq003      NRKFISIEAE------------------------	84
+seq004      NRKYISIVAE------------------------	84
+seq007      GRKYVSIVAA------------------------	85
+seq013      NRRYVSVVAA------------------------	85
+             :  : :                           

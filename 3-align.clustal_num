@@ -1,0 +1,134 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+seq004      -----------------MTNKVIQRNIHISHRKASLVIDLVRNKPVHEAIRILSNTPKKF	43
+seq020      -----------MVQENKNFATAQAKSIRVSSRKLNLVAAFIRNMKVSEALVQLTFSPKRI	49
+seq019      -----MAKQKQERRLPAAEAMCKVRTLRTSPRKLNLVAQSIRGLNVQRALNELEFSHKRI	55
+seq015      -----MAKAKTERRLKDNEAQAIARTLRVSPQKLNLVAALIRGKKVDRALAELEFSRKRI	55
+seq016      -----MGKAKAERRLKDNEAQAVARTIRVSPQKLNLVAALIRGKKVDRALAELEFSRKRI	55
+seq017      -----MGKAKAPRRLADNEARAVLRTIRISPQKLNLVAALIRGKKVATALSDLEFSAKRI	55
+seq018      -----MGKAKAPRQLKDNEAKAVARTLRVSPQKLNLVASMIRGKKVNAALADLTFSRKRI	55
+seq002      -----------------MIAFAKQFRVRISPQKARLVCQLIVGKKTADAQNILSNTPKKA	43
+seq003      -----------------MIAFAKQYRVHISPQKARLVCQLIVGKKINDAQNILLNTPKKA	43
+seq001      MGQLRIKDKSQRDGYKPNQSIAILRYAHISPLKARLVLREIQGKDVGDALYLLAVIPKKA	60
+seq014      -----------------MEATAILRGARISPQKARLVAAQVRGLSAESAVNILRFSSKKA	43
+seq011      -----------------MEVAAKLSGARISAQKARLVADQIRGKKVGEALNLLAFSSKKA	43
+seq009      -----------------METLAQHRQARSSAQKVRLIVDLIRGKKVPQALNILTYTNKKA	43
+seq010      -----------------MEAIAKHNFARISPQKARLVADQIRGKSVDQALELLTFSNKKA	43
+seq005      -----------------METIAKHRYARTSAQKARLVADLIRGKKVAQALEILTFTNKKA	43
+seq006      -----------------METIAKHRYARTSAQKARLVADLIRGKKVAAALEILTFTNKKA	43
+seq007      -----------------METIAKHRHARSSAQKVRLVADLIRGKKVSQALDILTYTNKKA	43
+seq008      -----------------METIAKHRHARSSAQKVRLVADLIRGKKVSQALETLTYTNKKA	43
+seq012      -----------------MEVKAIHRGARISAQKTRLVADQIRGLPIERALNVLAFSPKKA	43
+seq013      -----------------MRVNAQHKNARISAQKARLVADLIRGKDVAQALNILAFSPKKG	43
+                                       : *  *  *:   : .     *   *    *: 
+
+seq004      APIVLKLLNSAISNVQHNSKDMDPSKLYIYKIVANQGPTMKRTLPRAKGSADQLFKRTTH	103
+seq020      AKVVKDCLQSAVANAENN-LGLDIDRLVVTKATVGKALVMKRVMPRAKGRATRINKFFSN	108
+seq019      AQDVRKALYSAISNAENN-HNLDIDSLVVAEAYVGKNLIMKRFSPRARGRATRVEKPFSE	114
+seq015      AGTVKKTLESAIANAENN-HDLDVDALVVAEAYVGKSITMKRFHARGRGRASRIEKPFAH	114
+seq016      AGTVKKTLESAIANAENN-HDLDVDSLIVAEAFVGKSIVMKRFHARGRGRASRVEKPFAH	114
+seq017      SGTVKKTLESAIANAENN-HDLDVDALVVAEAYVGKSIVMKRFHARGRGRASRIEKPFSH	114
+seq018      AGTVKKTLESAIANAENN-HDLDVDALIVAEAYVGKSIVMKRFHVRDRGRASRIEKPFSH	114
+seq002      ATLIAKLLNSAIANATNN-HGMNGDALYVFECVANQGPSMKRTIPRAKGSSNMITKRSSN	102
+seq003      AYFLTKLLNSAISNATNN-HGMSGDLLYVFECVANQGPSMKRTIARAKGSGSVLTKRSSN	102
+seq001      ARIAEKVLKSVIANAEQ--KGLDLDRLYIKKAVADDGPILKKWIPRAHGRATMVRKRLSH	118
+seq014      ACLIKKVVESAIANAENN-HGSNIDALKINTIIVDEGRMLKRFMARAKGRSSRIVKRSSH	102
+seq011      AEIMKKVLESAVANAEHN-EGADVDDLKVSTVFVNEGRSLKRIMPRAKGRADRIVKRSCH	102
+seq009      AFLVKKVVESAVANAEHN-DGADIDKLRIKKIFVNEGSTMKRMMPRAKGRADRILKRTSH	102
+seq010      AELVKKVLESAIANAEHN-EGADIDDLRVAKIFVDEGPVMKRIMPRAKGRADRILKRSSH	102
+seq005      AALVKKVLESAIANAEHN-DGADIDDLKVAKIFVDEGPSMKRVMPRAKGRADRILKRTSH	102
+seq006      AALVKKVLESAIANAEHN-DGADIDDLKVAKIFVDEGPSMKRVMPRAKGRADRILKRTSH	102
+seq007      AVLVKKVLESAIANAEHN-DGADIDDLKVTKIFVDEGPSMKRIMPRAKGRADRILKRTSH	102
+seq008      AGLVKKVLESAIANAEHN-DGADIDDLKVTKIFVDEGPSMKRIMPRAKGRADRILKRTSH	102
+seq012      AVIVKKVVESAIANAEHN-EGADIDELKVKSIYIDKATSLKRFTARAKGRGNRIEKQTCH	102
+seq013      AELIKKVLESAIANAEHN-NGADIDELKVVTIFVDKGPSLKRFQARAKGRGNRIEKQTCH	102
+            :    . : *.::*. :   . . . * :     ..   :*:   * :* .  : *   .
+
+seq004      LEIVLSDDVNEREKELAAIKAKKSKKPLAVEPIAKVETKKVAKPSKVEIKPVEKDENVDP	163
+seq020      LYITVTEKEDN-------------------------------------------------	119
+seq019      ITIVVRELGEAA------------------------------------------------	126
+seq015      LTIVVREVEEKGEAA---------------------------------------------	129
+seq016      LTIVVREVEAKGEAA---------------------------------------------	129
+seq017      LTIVVREVEEKGEAA---------------------------------------------	129
+seq018      LTIVVREVAEKGKAA---------------------------------------------	129
+seq002      LVVKLSDNPNERQELIKQQKALVKKRVEGQQKA-KMARQ--KAVTSVVKAPSKTQGGVQK	159
+seq003      LVIKLSDNPNERKLLLTQQKELVKKRTMGHKKE-KAKQK--QKQQ---------------	144
+seq001      ITIVLEEKPEGKEEE---------------------------------------------	133
+seq014      ITVVVGPAK---------------------------------------------------	111
+seq011      ITVKVADK----------------------------------------------------	110
+seq009      ITVIVSDR----------------------------------------------------	110
+seq010      ITVVVADR----------------------------------------------------	110
+seq005      ITVVVSDR----------------------------------------------------	110
+seq006      ITVVVSDR----------------------------------------------------	110
+seq007      ITVVVSDR----------------------------------------------------	110
+seq008      ITVVVSDR----------------------------------------------------	110
+seq012      ITVTLGN-----------------------------------------------------	109
+seq013      INVTVGN-----------------------------------------------------	109
+            : : :                                                       
+
+seq004      ELLKREQQVLKVVEKTASQKEEETTETIMISTSPKNAQVLFDDLEKNVIFYKTTPINKVL	223
+seq020      ------------------------------------------------------------	119
+seq019      ------------------------------------------------------------	126
+seq015      ------------------------------------------------------------	129
+seq016      ------------------------------------------------------------	129
+seq017      ------------------------------------------------------------	129
+seq018      ------------------------------------------------------------	129
+seq002      ------------------------------------------------------------	159
+seq003      ------------------------------------------------------------	144
+seq001      ------------------------------------------------------------	133
+seq014      ------------------------------------------------------------	111
+seq011      ------------------------------------------------------------	110
+seq009      ------------------------------------------------------------	110
+seq010      ------------------------------------------------------------	110
+seq005      ------------------------------------------------------------	110
+seq006      ------------------------------------------------------------	110
+seq007      ------------------------------------------------------------	110
+seq008      ------------------------------------------------------------	110
+seq012      ------------------------------------------------------------	109
+seq013      ------------------------------------------------------------	109
+                                                                        
+
+seq004      RVLVYVTSPTKKVVGEFDLESVEIGAISSIWRKYSKQSVISKKEYDAYYEGKDKAHALVS	283
+seq020      ------------------------------------------------------------	119
+seq019      ------------------------------------------------------------	126
+seq015      ------------------------------------------------------------	129
+seq016      ------------------------------------------------------------	129
+seq017      ------------------------------------------------------------	129
+seq018      ------------------------------------------------------------	129
+seq002      ------------------------------------------------------------	159
+seq003      ------------------------------------------------------------	144
+seq001      ------------------------------------------------------------	133
+seq014      ------------------------------------------------------------	111
+seq011      ------------------------------------------------------------	110
+seq009      ------------------------------------------------------------	110
+seq010      ------------------------------------------------------------	110
+seq005      ------------------------------------------------------------	110
+seq006      ------------------------------------------------------------	110
+seq007      ------------------------------------------------------------	110
+seq008      ------------------------------------------------------------	110
+seq012      ------------------------------------------------------------	109
+seq013      ------------------------------------------------------------	109
+                                                                        
+
+seq004      KKAYKYRNPKDLSEYNMTKGPSGFQYLK	311
+seq020      ----------------------------	119
+seq019      ----------------------------	126
+seq015      ----------------------------	129
+seq016      ----------------------------	129
+seq017      ----------------------------	129
+seq018      ----------------------------	129
+seq002      ----------------------------	159
+seq003      ----------------------------	144
+seq001      ----------------------------	133
+seq014      ----------------------------	111
+seq011      ----------------------------	110
+seq009      ----------------------------	110
+seq010      ----------------------------	110
+seq005      ----------------------------	110
+seq006      ----------------------------	110
+seq007      ----------------------------	110
+seq008      ----------------------------	110
+seq012      ----------------------------	109
+seq013      ----------------------------	109
+                                        
